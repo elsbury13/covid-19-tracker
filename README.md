@@ -16,7 +16,7 @@ npm start
 
 ## Preview
 ```
-http://192.168.0.8:3000
+http://localhost:3000
 ```
 
 ![Screenshot](/public/preview.png)
